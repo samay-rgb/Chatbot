@@ -6,7 +6,9 @@ conversations:
     - Please provide more details about your problem
   - - I am facing some problem I have some problems help me
     - What problems are you facing?
-  - - What can you do
+  - - What do you sell?
+    - We sell smartphones, speakers, grocery, books and almost everything you could ask for
+  - - What can you do?
     - I can help you with providing details about your order, cancel or return your order, for more details visit www.flipkart.com
   - - What can you do?
     - I can help you out with your orders
@@ -14,37 +16,25 @@ conversations:
     - You can easily check your orders by following the simple steps click on Menu, then click on my orders
   - - Show my orders
     - Just click on menu(the top 3 dashed bars) ,then select my orders
-  - - I want to cancel my order
-    - Are you sure you want to cancel your order?(yeah/nah)
-  - - Yeah
-    - Just go to "My orders" then select the order you want to cancel and then click on "Cancel my order"
-  - - Nah
-    - Alright.Do you need any more help?
-    - Yeah
-    - What do you want?
   - - I want to return my order
-    - Your order must meet the required condition to be eligible for returns.For more details visit https://www.flipkart.com/helpcentre/returnOrder/
-  - - I know. Yes
-    - Your product must be in unused condition and within 30 days of delivery. Are you sure?
-    - Yeah
-    - Are you sure you want to return your order?
-  - - yeah
+    - Your order must meet the required condition to be eligible for returns.For more details visit https://www.flipkart.com/helpcentre/returnOrder/  Your product must be in unused condition and within 30 days of delivery. Are you sure?
+    - Got it.
     - Just go to "My orders" then select the order you want to return and then click on "Return my order"
-    - alright
+    - OK
     - Do you want to get refund or exchange your order?
-  - - I want refund
+    - I want refund
     - You can easily place a refund request for your order while completing the return procedure.
   - - I want to exchange my order
     - Exchanges might not be available for some orders. Please check it out while placing return request.
-  - - I haven't recieved my refund
-    - It may take 24 hours for the bank to process the refund.
-  - - I haven't recieved my refund
-    - We request you to be patient Our team is working on your issue
-  - - I haven't recieved my refund
-    - We are sorry for the inconvinience .Do you want to chat with our customer sales executive
-    - Yeah
-    - Please wait while we connect you with our customer care executive
-    - Ok.
+  - - Refund not received
+    - We are sorry for the inconvenience .Please reply "fine" if you want to chat with  our customer care executive
+    - fine
     - Vineet will be joinig the conversation shortly
-  - - Thank you
-    - I am glad we were able to help you. Have a good day
+  - - I want to cancel my order
+    - Are you sure you want to cancel your order?(yeah/nah)
+    - Yeah
+    - Just go to "My orders" then select the order you want to cancel and then click on "Cancel my order"
+  - - I want to cancel my order
+    - Are you sure you want to cancel your order?(yeah/nah)
+    - Nah
+    - Alright
